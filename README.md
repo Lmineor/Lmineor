@@ -5,7 +5,7 @@
 ### About me
 
 - 🔭 主攻 Python
-- 🌱 想折腾 Go
+- 🌱 折腾 Go中，美滋滋
 
 
 
