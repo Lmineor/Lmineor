@@ -1,4 +1,4 @@
-<h1 align="left">Lht</h1>
+<h1 align="left">Lmineor</h1>
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 
