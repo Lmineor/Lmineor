@@ -11,8 +11,8 @@
 
 ### 🙈 statistics
 <p style="width=100%">
-  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Prolht&&show_icons=true&theme=radical&line_height=27&v=5&count_private=true" alt="Prolht's GitHub Stats" />
-  <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prolht&theme=radical&layout=compact&langs_count=6" />
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Lmineor&&show_icons=true&theme=radical&line_height=27&v=5&count_private=true" alt="Prolht's GitHub Stats" />
+  <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lmineor&theme=radical&layout=compact&langs_count=6" />
 </p>
 
 <p></p>
