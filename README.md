@@ -11,11 +11,7 @@
 
 - [x] 大顶堆排序、小顶堆排序，大顶堆、小顶堆的特殊性质
 - [x] 快排
-- [ ] goset benchmark测试
-- [ ] goset license
-- [ ] 整一个k8s的监控
-- [ ] 回溯算法剪枝
-- [ ] 个人网站
+- [ ] 同步yong-server
 
 ### 🙈 statistics
 
