@@ -9,9 +9,10 @@
 
 ### TODO
 
+- [ ] favicon获取服务
 - [x] 大顶堆排序、小顶堆排序，大顶堆、小顶堆的特殊性质
 - [x] 快排
-- [ ] 同步yong-server
+- [x] 同步yong-server
 - [ ] goipam
 
 ### 🙈 statistics
