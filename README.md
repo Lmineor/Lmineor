@@ -11,6 +11,7 @@
 
 - [ ] favicon获取服务
 - [ ] https://github.com/excalidraw/excalidraw
+- [ ] 遗留：利用github action将服务自动部署到服务器中
 - [x] 大顶堆排序、小顶堆排序，大顶堆、小顶堆的特殊性质
 - [x] 快排
 - [x] 同步yong-server
