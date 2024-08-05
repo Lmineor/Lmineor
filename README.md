@@ -9,6 +9,7 @@
 
 ### TODO
 
+- [ ] https://tools.mineor.xyz/ 点击logo返回主页不加载图标
 - [ ] favicon获取服务
 - [ ] https://github.com/excalidraw/excalidraw
 - [x] 遗留：利用github action将服务自动部署到服务器中
