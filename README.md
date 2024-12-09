@@ -1,33 +1,11 @@
-<h1 align="left">Lmineor</h1>
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
-
-### About me
-
-- 🔭 主攻 Python
-- 🌱 折腾 Go中，美滋滋
+![A4B08850](https://github.com/user-attachments/assets/ae972ed3-4baa-43e3-b557-85f1b28b227a)凡世的喧嚣与明亮，世俗的快乐和幸福，如同清亮的溪涧，在风里，在我眼前，汨汨而过，温暖如同泉水一样涌出来。我没有奢望，我只要你快乐，不要悲伤。
 
 ### TODO
 
-- [ ] umask
-- [ ] https://tools.mineor.xyz/ 点击logo返回主页不加载图标
 - [ ] favicon获取服务
 - [ ] https://github.com/excalidraw/excalidraw
-- [x] 遗留：利用github action将服务自动部署到服务器中
-- [x] 大顶堆排序、小顶堆排序，大顶堆、小顶堆的特殊性质
-- [x] 快排
-- [x] 同步yong-server
-- [ ] goipam
 
-### 🙈 statistics
 
-<div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lmineor&theme=radical&layout=compact&langs_count=6" />
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Lmineor&&show_icons=true&theme=radical&line_height=27&v=5&count_private=true"/>
-  </div>
-</div>
+
 
 
